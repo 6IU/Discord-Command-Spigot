@@ -1,0 +1,9 @@
+name: DiscordCommand
+author: 6IU
+version: 1.0
+main: me.pickle.discordCommand.Main
+description: Sends the discord link of your choice
+commands:
+   discord:
+      description: Sends the discord link!
+      usage: /discord
